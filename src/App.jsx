@@ -1,0 +1,13 @@
+import MyComponent from "./test"
+
+function App() {
+
+  return (
+    <>      
+      <h1 className='text-red-600'>Hello</h1>
+      <MyComponent/>
+    </>
+  )
+}
+
+export default App
